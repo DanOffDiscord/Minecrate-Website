@@ -13,7 +13,7 @@ body {
 .main {
 	background-color: #71B4F7;
 	padding: 25px;
-	min-height: 72.9vh;
+	min-height: 50vh;
 }
 .logo {
 	width: 150px;
@@ -28,9 +28,4 @@ hr {
 	background-color: black;
 	border-color: black;
 	color: black;
-}
-.footer {
-	padding: 2em;
-	background-color: #71B4F7;
-	text-align: center;
 }
