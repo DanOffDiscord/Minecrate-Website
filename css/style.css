@@ -29,3 +29,8 @@ hr {
 	border-color: black;
 	color: black;
 }
+
+.ad {
+	width: 200px;
+	border-radius: 25%;
+}
